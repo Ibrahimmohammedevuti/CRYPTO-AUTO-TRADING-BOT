@@ -21,5 +21,14 @@ You can adjust the RSI thresholds (rsi_buy_threshold) and (rsi_sell_threshold) d
 
 CHANGELOG V3
 
+1. *Portfolio Diversification*:
+   - modify the script to handle multiple trading pairs.
+   - Instead of focusing on a single pair, the bot will scan and manage multiple pairs concurrently.
+
+2. *Dynamic Allocation*:
+   - I allocate capital dynamically based on the performance of each trading pair.
+   - The bot will adjust the position size for each pair to optimize overall portfolio returns.
 
 
+
+contact me on the following email, version 3 is not free==> ibrahimmohammedevuti@gmail.com
