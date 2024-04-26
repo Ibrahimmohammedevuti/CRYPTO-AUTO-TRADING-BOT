@@ -29,6 +29,6 @@ CHANGELOG V3
    - I allocate capital dynamically based on the performance of each trading pair.
    - The bot will adjust the position size for each pair to optimize overall portfolio returns.
 
-
+Remember to customize the trading pairs and adjust the position sizes based on your desired portfolio allocation. Happy diversified trading! 🚀📊🌟
 
 contact me on the following email, version 3 is not free==> ibrahimmohammedevuti@gmail.com
